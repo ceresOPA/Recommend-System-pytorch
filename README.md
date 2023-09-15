@@ -7,7 +7,10 @@ The code of recommendation system algorithms(models) implemented by Pytorch. (Up
 
 |  Model | Paper |                                                                                                                                 
 | :----: | :------- | 
-|  [FM](https://github.com/jc-LeeHub/Recommend-System-tf2.0/tree/master/FM) | [ICDM 2010] [Fast Context-aware Recommendationswith Factorization Machines](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2011-Context_Aware.pdf)  
+|  [FM](https://github.com/ceresOPA/Recommend-System-pytorch/tree/main/FM) | [ICDM 2010] [Fast Context-aware Recommendationswith Factorization Machines](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2011-Context_Aware.pdf)  
+|  [FFM](https://github.com/ceresOPA/Recommend-System-pytorch/tree/main/FFM) | [RecSys 2016] [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)           |
+|  [DeepFM](https://github.com/ceresOPA/Recommend-System-pytorch/tree/main/DeepFM)   | [IJCAI 2017] [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](http://www.ijcai.org/proceedings/2017/0239.pdf)                      |
+|  [xDeepFM](https://github.com/ceresOPA/Recommend-System-pytorch/tree/main/xDeepFM) | [KDD 2018] [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems](https://arxiv.org/pdf/1803.05170.pdf)                     |
 
 ## Reference（参考资料）
   - [Recommend-System-tf2.0](https://github.com/jc-LeeHub/Recommend-System-tf2.0)
